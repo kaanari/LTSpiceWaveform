@@ -1,0 +1,11 @@
+VDD VDD 0 DC 5
+VC0 C0 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VP0 P0 0 pulse(0 5 40ms 1ns 1ns 40ms 80ms)
+VP1 P1 0 pulse(0 5 40ms 1ns 1ns 40ms 80ms)
+VP2 P2 0 pulse(0 5 40ms 1ns 1ns 40ms 80ms)
+VP3 P3 0 pulse(0 5 40ms 1ns 1ns 40ms 80ms)
+VG0 G0 0 pulse(0 5 80ms 1ns 1ns 80ms 160ms)
+VG1 G1 0 pulse(0 5 80ms 1ns 1ns 80ms 160ms)
+VG2 G2 0 pulse(0 5 80ms 1ns 1ns 80ms 160ms)
+VG3 G3 0 pulse(0 5 80ms 1ns 1ns 80ms 160ms)
+.tran 160ms

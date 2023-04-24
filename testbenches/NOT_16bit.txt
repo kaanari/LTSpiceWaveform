@@ -1,0 +1,18 @@
+VDD VDD 0 DC 5
+VA0 A0 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA1 A1 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA2 A2 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA3 A3 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA4 A4 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA5 A5 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA6 A6 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA7 A7 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA8 A8 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA9 A9 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA10 A10 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA11 A11 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA12 A12 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA13 A13 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA14 A14 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+VA15 A15 0 pulse(0 5 20ms 1ns 1ns 20ms 40ms)
+.tran 40ms
